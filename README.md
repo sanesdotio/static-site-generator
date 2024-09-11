@@ -12,6 +12,8 @@ To run the program, run the shell script `./main.sh`
 
 Add your own content to the `content` directory and use the `static` directory to add images, styling and other files.
 
+Once you have added your markdown content, run the shell script again. It will generate the static website in the `public` directory.
+
 Your content must be valid markdown. The basic markdown syntax is supported:
 
 Heading - `# H1 text` - `## H2 text` - `### H3 text`
