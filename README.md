@@ -22,4 +22,8 @@ Italic - `*italic text*`
 
 Code - `` `code text` ``
 
-Link -`[text](url)`Image -`![alt text](url)`Unordered list -`- item 1 text`-`- item 2 text`Ordered list -`1. item 1 text`-`2. item 2 text`
+Link -`[text](url)`Image -`![alt text](url)`
+
+Unordered list -`- item 1 text`-`- item 2 text`
+
+Ordered list -`1. item 1 text`-`2. item 2 text`
