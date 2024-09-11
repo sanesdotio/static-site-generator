@@ -2,7 +2,7 @@
 
 ## Overview
 
-This program generates a static website from markdown files.
+This program generates a static website from Markdown files.
 
 Example content and styling can be found in the `content` and `static` directories, respectively.
 
@@ -12,9 +12,9 @@ To run the program, run the shell script `./main.sh`
 
 Add your own content to the `content` directory and use the `static` directory to add images, styling and other files.
 
-Once you have added your markdown content, run the shell script again. It will generate the static website in the `public` directory.
+Once you have added your Markdown content, run the shell script again. It will generate the static website in the `public` directory.
 
-Your content must be valid markdown. The basic markdown syntax is supported:
+Your content must be valid Markdown. The basic Markdown syntax is supported:
 
 Heading - `# H1 text` - `## H2 text` - `### H3 text`
 
